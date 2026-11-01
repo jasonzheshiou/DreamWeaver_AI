@@ -219,6 +219,8 @@ swallow the child's request.
 
 ## 9. Licence and redistribution
 
+The documentation in this repository is released under the [MIT License](LICENSE).
+
 This repository contains **only documentation**. No implementation code, prompts,
 persona text, model weights, audio, or generated images are distributed here,
 due to copyright and licence concerns: the language, speech, and image models are
